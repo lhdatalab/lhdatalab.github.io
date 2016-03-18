@@ -9,5 +9,5 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/wrangle-open-street-map-data/'
 button_icon: 'flask'
 button_text: 'View Project'
-lead_text: "Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies."
+lead_text: "In Progress: Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies."
 ---
