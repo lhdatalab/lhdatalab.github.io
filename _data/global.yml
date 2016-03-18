@@ -1,6 +1,6 @@
 # Site Settings
-title: "Welcome to he lhdatalab"
-description: "I'm a strategic Data Scientist using data-driven startegy to solve problems, create opportunites and help senior management gain insight. This site is dedicated to hosting projects from the Data Analyst nanodegree at Udacity."
+title: "Welcome to lhdatalab"
+description: "I'm a strategic Data Scientist using data-driven strategy to solve problems, create opportunites and help senior management gain business insight. This site is dedicated to hosting projects from the Data Analyst nanodegree at Udacity."
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Jami Gibbs'
