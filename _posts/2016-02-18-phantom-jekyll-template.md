@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'P4 - Explore and Summarie Data Using R'
+title: 'P4: Explore and Summarie Data Using R'
 date: 2016-02-20 21:15:00
 categories: data R analysis EDA "exploratory data analysis"
 tags: data R ggplot2 EDA exploratory data analysis
