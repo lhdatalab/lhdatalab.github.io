@@ -1,6 +1,6 @@
 # Site Settings
-title: "Hello. I'm Jami Gibbs."
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "Welcome to he lhdatalab. This site is dedicated to hosting projects from the Data Analyst nanodegree at Udacity."
+description: "I'm a strategic Data Scientist using data-driven startegy to solve problems, create opportunites and help senior management gain insight."
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Jami Gibbs'
