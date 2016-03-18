@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Current Project: P4 - Explore and Summarie Data Using R'
-date: 2016-02-14 21:15:00
+date: 2016-02-20 21:15:00
 categories: data R analysis EDA exploratory data analysis
 tags: data R ggplot2 EDA exploratory data analysis
 featured_image: 'img/posts/04_phantom-jekyll-1130x864-2x.png'
