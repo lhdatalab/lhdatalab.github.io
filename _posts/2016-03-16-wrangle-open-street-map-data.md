@@ -8,6 +8,6 @@ tags: data munging python geocoding XML JSON CSV Toronto
 featured_image: 'img/posts/torontov2.png'
 project_link: 'https://github.com/lhdatalab/wrangleopenstreetmap'
 button_text: 'View on Github'
-button_icon: 'flask'
+button_icon: 'github'
 lead_text: 'Assess the quality of data from OpenStreetMap for the city of Torornto using Python, Canada and explore the city by querying the data in MongoDB.'
 ---
