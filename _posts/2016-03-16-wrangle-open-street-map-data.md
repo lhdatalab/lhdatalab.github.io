@@ -1,10 +1,10 @@
 ---
 layout: inner
 position: right
-title: 'Wrangle OpenStreetMap Datat in Python and MongoDB'
+title: 'Wrangle OpenStreetMap Data in Python and MongoDB'
 date: 2016-03-16 15:56:00
 categories: data data-munging python XML XML-parser JSON CSV regular-expressions Toronto
-tags: data munging python geocoding XML JSON CSV Toronto
+tags: data data-munging python XML XML-parser JSON CSV regular-expressions Toronto
 featured_image: 'img/posts/torontov2.png'
 project_link: 'https://github.com/lhdatalab/wrangleopenstreetmap'
 button_text: 'View on Github'
