@@ -9,5 +9,5 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: "Beta: Use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies."
+lead_text: "Beta: Use R and apply exploratory data analysis techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies."
 ---
