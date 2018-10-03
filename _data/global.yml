@@ -1,6 +1,6 @@
 # Site Settings
 title: "Welcome to lhdatalab"
-description: "Hi I'm Laura. I'm a strategic Data Scientist or Analyst using statistics, technology, data and strategy to solve problems, create opportunites and help companies gain business insight. This site is dedicated to hosting projects from the Data Analyst nanodegree at Udacity. Why not get in touch?"
+description: "Hi I'm Laura. I'm a strategic Data Scientist or Analyst using statistics, technology, data and strategy to solve problems, create opportunites and help companies gain business insight. I am also a Certified Intelligence Professional (competitive intelligence). This site is dedicated to hosting projects from the Data Analyst nanodegree at Udacity. Why not get in touch?"
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2016 lhdatalab'
