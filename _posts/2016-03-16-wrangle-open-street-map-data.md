@@ -9,5 +9,5 @@ featured_image: 'img/posts/torontov2.png'
 project_link: 'https://github.com/lhdatalab/wrangleopenstreetmap'
 button_text: 'View on Github'
 button_icon: 'github'
-lead_text: 'Assess the quality of data from OpenStreetMap for the city of Torornto using Python, Canada and explore the city by querying the data in MongoDB.'
+lead_text: 'Assess the quality of data from OpenStreetMap for the city of Torornto, Canada using Python, and explore the city by querying the data in MongoDB.'
 ---
