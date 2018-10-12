@@ -9,7 +9,7 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies."
+lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies. Read recommedations on https://github.com/lhdatalab/exploredatainR"
 
 ### Recommendations
 
