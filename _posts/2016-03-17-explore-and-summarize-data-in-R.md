@@ -11,7 +11,7 @@ button_icon: 'github'
 button_text: 'View on Github'
 lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies."
 
-Recomendations
+Recommendations
 
 Yellow taxis dominate the sector in New York City. However, there are three possible clusters wit higher earnings where green taxis could compete with yellow taxis and possibly earn higher revenue per trip (on average $10).
 
