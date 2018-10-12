@@ -9,7 +9,7 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies. Read recommedations on https://github.com/lhdatalab/exploredatainR"
+lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies. Read recommedations on https://github.com/lhdatalab/exploredatainR
 
 ### Recommendations
 
@@ -25,5 +25,5 @@ Two of the three groups also bypass the JFK and Manhattan restrictions in place 
 The data actually showed an interesting, unexpected pattern of high average fare trips that are not in fact JFK-based. These are standard rate trips from Queens and are high for both cash and credit card customers serviced by the yellow taxi sector. 
 The green sector can target the segment(s) in which yellow taxis make the most money.
 
-In regards to JFK trips, it might not make sense for green taxis to target this segment as the increase in average fares is only $5-$6 than that earned from standard rate customers. They would also have the additional challenge of overcoming existing JFK street-hail regulation prohibiting them from targeting these customers.
+In regards to JFK trips, it might not make sense for green taxis to target this segment as the increase in average fares is only $5-$6 than that earned from standard rate customers. They would also have the additional challenge of overcoming existing JFK street-hail regulation prohibiting them from targeting these customers."
 
