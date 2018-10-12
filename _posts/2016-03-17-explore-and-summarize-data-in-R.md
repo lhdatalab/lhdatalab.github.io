@@ -11,8 +11,7 @@ button_icon: 'github'
 button_text: 'View on Github'
 lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies."
 
-Recomendations:
-# Recommendations
+Recomendations
 
 Yellow taxis dominate the sector in New York City. However, there are three possible clusters wit higher earnings where green taxis could compete with yellow taxis and possibly earn higher revenue per trip (on average $10).
 
@@ -27,4 +26,4 @@ The data actually showed an interesting, unexpected pattern of high average fare
 The green sector can target the segment(s) in which yellow taxis make the most money.
 
 In regards to JFK trips, it might not make sense for green taxis to target this segment as the increase in average fares is only $5-$6 than that earned from standard rate customers. They would also have the additional challenge of overcoming existing JFK street-hail regulation prohibiting them from targeting these customers.
----
+
