@@ -8,9 +8,8 @@ tags: data R LDA topic-models non-matrix-negative-factorization NMF natural-lang
 sentiment-analysis scanstatistics clustering kNN lda topic-models openNLP tm geolocation geospatial 
 temporal SpatialDataFrames  ggplot2 exloratory data-analysis data-munging dplyr tidyr jsonlite lubridate cluster hierarchical-clustering regos rgdal sp SpatialPoints SpatialDataFrames JSON GeoJSON maps MongoDB mongolite rmongodb sqldf sampling undersampling New-York-City taxi
 featured_image: 'img/posts/edav2.png'
-project_link: 'https://github.com/lhdatalab/exploredatainR'
+project_link: 'https://github.com/lhdatalab/Ryerson-project'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: "Use R and apply exploratory data analysis and data science techniques to New York City taxi data (open data). Investigate relationships from univariate to multivariate and explore distributions, outliers, and anomalies. Read recommedations on https://github.com/lhdatalab/exploredatainR"
-
+lead_text: "Can clustering extract “unusual” local knowledge (positive sentiment) from global social injustice text (unstructured data)?
 
