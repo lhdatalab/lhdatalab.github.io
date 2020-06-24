@@ -3,14 +3,14 @@ layout: inner
 position: left
 title: 'Predict number of days until customer first books and revenue generated using AirBnB and Python'
 date: 2016-03-18 14:15:00
-categories: R machine learning data science geolocation temporal clustering twitter
+categories: python pyspark spark machine learning data science kaggle airbnb 
 tags: "R twitter LDA topic-modelling non-negative-matrix-factorization NMF 
 natural-language-processing NLP text-mining sentiment-analysis kNN 
 clustering random forests scanstatistics time-series-analysis geospatial
 geolocation temporal maps geoJSON shapefiles SpatialDataFrames statistics 
 data-visualization ggplot2 wordcloud googleVis MongoDB MySQL SQL"
 featured_image: 'img/posts/edav2.png'
-project_link: 'https://github.com/lhdatalab/exploredatainR'
+project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'Estimate opportunity for AirBnB to increase US revenue during (post) downward economic trend (first 6 months of 2020).
