@@ -10,7 +10,7 @@ clustering random forests scanstatistics time-series-analysis geospatial
 geolocation temporal maps geoJSON shapefiles SpatialDataFrames statistics 
 data-visualization ggplot2 wordcloud googleVis MongoDB MySQL SQL"
 featured_image: 'img/posts/twitter3.png'
-project_link: 'https://github.com/lhdatalab/exploredatainR'
+project_link: 'https://github.com/lhdatalab/Ryerson-project'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'Based on the shooting of Michael Brown in Ferguson, Missouri in 2014; can clustering extract "unusual" local knowledge (positive sentiment) from global social injustice text (overwhelming negative sentiment)?
