@@ -5,7 +5,7 @@ title: 'Extract positive sentiment from twitter data in R - geospatial and tempo
 date: 2016-03-18 14:15:00
 categories: R machine learning data science geolocation temporal clustering twitter
 tags: "R twitter LDA topic-modelling non-negative-matrix-factorization NMF 
-natural-language-processing NLP text-mining sentiment-analysis kNN 
+natural-language-processing NLP text-mining sentiment-analysis kNN GLM
 clustering random forests scanstatistics time-series-analysis geospatial
 geolocation temporal maps geoJSON shapefiles SpatialDataFrames statistics 
 data-visualization ggplot2 wordcloud googleVis MongoDB MySQL SQL"
