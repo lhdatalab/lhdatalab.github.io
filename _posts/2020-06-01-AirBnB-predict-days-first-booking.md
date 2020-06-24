@@ -4,9 +4,9 @@ position: left
 title: 'Predict number of days until customer first books and revenue generated using AirBnB and Python'
 date: 2016-03-18 14:15:00
 categories: python pyspark spark machine learning data science kaggle airbnb 
-tags: "python pyspark spark scikit-learn genralized-linear-models GLM gradient-boost-ensemble
+tags: 'python pyspark spark scikit-learn genralized-linear-models GLM gradient-boost-ensemble
 kNN scipy numpy pandas data-visualization matplotlib seaborn bokeh data-driven exploratory-data-analysis 
-EDA statistics outliers missing-values imputation"
+EDA statistics outliers missing-values imputation'
 featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
 button_icon: 'github'
