@@ -12,7 +12,7 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Can clustering extract "unusual" local knowledge (positive sentiment) from global social injustice text (overwhelming negative sentiment)?
+lead_text: 'Based on the shooting of Michael Ferguson in Missouri in 2012, can clustering extract "unusual" local knowledge (positive sentiment) from global social injustice text (overwhelming negative sentiment)?
 
-Yes, geolocation and time-based grouping of short text (data) gives e.g. overall sentiment = +0.15 for some topics in New York City. For recommendations read https://github.com/lhdatalab/Ryerson-project'
+Yes, geolocation and time-based grouping of short text (data) in New York City gives e.g. overall sentiment = +0.15 for organising protests and rallies, but -0.1 for political reaction to the incident.. For recommendations read https://github.com/lhdatalab/Ryerson-project'
 ---
