@@ -15,4 +15,4 @@ button_text: 'View on Github'
 lead_text: 'Based on the shooting of Michael Brown in Ferguson, Missouri in 2014, can clustering extract "unusual" local knowledge (positive sentiment) from global social injustice text (overwhelming negative sentiment)?
 
 Yes, geolocation and time-based grouping of short text (data) in New York City gives e.g. overall sentiment = +0.15 for organising protests and rallies, but -0.1 for political reaction to the incident. Contrast this with cities outside of NYC where rallies also have a +0.15 sentiment, but legal/political reaction = +0.1 and injustice themes = -0.05. For recommendations read https://github.com/lhdatalab/Ryerson-project'
----b
+---
