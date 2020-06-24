@@ -9,6 +9,6 @@ featured_image: 'img/posts/nycsubwayv2.png'
 project_link: 'https://github.com/lhdatalab/nycsubwaydata'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Conduct an experiment to answer the question "In New York City, do more people ride the subway when it is raining? 
-Yes, on average 183 more passengers per station."
+lead_text: 'Conduct an experiment to answer the question "In New York City, do more people ride the subway when it is raining?"
+Yes, on average 183 more passengers per station.'
 ---
