@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Extract positive sentiment from twitter data in R - geospatial and temporal clustering'
+title: 'Predict days until customer first books and revenue generated using AirBnB and Python'
 date: 2016-03-18 14:15:00
 categories: R machine learning data science geolocation temporal clustering twitter
 tags: "R twitter LDA topic-modelling non-negative-matrix-factorization NMF 
