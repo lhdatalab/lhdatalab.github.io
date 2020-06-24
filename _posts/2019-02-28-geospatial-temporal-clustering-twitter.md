@@ -12,6 +12,6 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Can clustering extract unusual local knowledge (positive sentiment) from global social injustice text?|
+lead_text: 'Can clustering extract "unusual" local knowledge (positive sentiment) from global social injustice text (overwhelming negative sentiment)? |
 Yes, geolocation and time-based grouping of short text (data) gives e.g. overall sentiment = +0.15 in New York City. For recommendations read https://github.com/lhdatalab/Ryerson-project'
 ---
