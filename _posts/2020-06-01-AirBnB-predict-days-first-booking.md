@@ -13,5 +13,7 @@ featured_image: 'img/posts/edav2.png'
 project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Estimate opportunity for AirBnB to increase US revenue during a downward economic trend (first 6 months of 2020)'
+lead_text: 'Estimate opportunity for AirBnB to increase US revenue during a downward economic trend (first 6 months of 2020).
+On average new users take 3 weeks (US) and 1 month (Global) before making a booking.
+AirBnB can increase revenue by $1 billion (from $3.8B) by increasing US customer conversion rates from 50% to 65%.'
 ---
