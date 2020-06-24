@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Extract positive sentiment from twitter data in R - geospatial and temporal clustering (USA only)'
+title: 'Extract positive sentiment from twitter data in R - geospatial and temporal clustering'
 date: 2016-03-18 14:15:00
 categories: R machine learning data science geolocation temporal clustering twitter
 tags: "data R ggplot2 EDA exploratory data-analysis data-munging dplyr
