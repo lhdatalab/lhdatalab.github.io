@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: "Explore and Summarize Data in R"
+title: "Extract positive sentiment from twitter data in R - geospatial and temporal clustering (USA only)
 date: 2016-03-18 14:15:00
 categories: R machine learning data science EDA exploratory data analysis
 tags: data R ggplot2 EDA exploratory data-analysis data-munging dplyr tidyr jsonlite lubridate cluster hierarchical-clustering regos rgdal sp SpatialPoints SpatialDataFrames JSON GeoJSON maps MongoDB mongolite rmongodb sqldf sampling undersampling New-York-City taxi
