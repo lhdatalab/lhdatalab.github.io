@@ -7,7 +7,7 @@ categories: python pyspark spark machine learning data science kaggle airbnb
 tags: 'python pyspark spark scikit-learn genralized-linear-models GLM gradient-boost-ensemble
 kNN hyper-parameter-tuning scipy numpy pandas data-visualization matplotlib seaborn bokeh data-wrangling data-munging
 exploratory-data-analysis EDA statistics outliers missing-values imputation'
-featured_image: 'img/posts/edav2.png'
+featured_image: 'img/posts/accommodation2.png'
 project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
 button_icon: 'github'
 button_text: 'View on Github'
