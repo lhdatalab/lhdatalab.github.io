@@ -4,7 +4,10 @@ position: right
 title: 'Analyze New York City Subway Data'
 date: 2016-03-15 14:15:00
 categories: python, numpy, pandas, scipy, scikit-learn, ggplot, matplotlib, multiple-linear-regression, MannWhitneyU, hypothesis-testing, statistics, p-values, data-visualization, model-performance 
-tags: python, numpy, pandas, scipy, statsmodels, scikit-learn, ggplot, matplotlib, multiple-linear-regression, MannWhitneyU, hypothesis-testing, statistics, p-values, data-visualization, model-performance 
+tags: python numpy pandas scipy statsmodels scikit-learn 
+ggplot matplotlib multiple-linear-regression MannWhitneyU 
+hypothesis-testing statistics p-values data-visualization
+model-performance 
 featured_image: 'img/posts/nycsubwayv2.png'
 project_link: 'https://github.com/lhdatalab/nycsubwaydata'
 button_icon: 'github'
