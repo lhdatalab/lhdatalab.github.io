@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>GeoChartID2a382c9617</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<style type="text/css">
+body {
+  color: #444444;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 75%;
+  }
+  a {
+  color: #4D87C7;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+ <!-- GeoChart generated in R 3.5.1 by googleVis 0.6.2 package -->
+<!-- Fri Jul 17 15:59:31 2020 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataGeoChartID2a382c9617 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+55.16941411,
+-114.510904,
+"AB",
+492980.7,
+12.31479536
+],
+[
+54.92952725,
+-97.43244567,
+"MB",
+409010.2,
+10.099
+],
+[
+53.39325436,
+-71.78152567,
+"QC",
+393739.65,
+8.447128761
+],
+[
+54.41811065,
+-105.8895378,
+"SK",
+366791.5,
+11.864
+],
+[
+50.44614611,
+-86.04748451,
+"ON",
+279138.1,
+6.213649415
+],
+[
+54.7545508,
+-124.7653118,
+"BC",
+249673.4,
+5.249
+] 
+];
+data.addColumn('number','Latitude');
+data.addColumn('number','Longitude');
+data.addColumn('string','Province');
+data.addColumn('number','per_100k');
+data.addColumn('number','per_household');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartGeoChartID2a382c9617() {
+var data = gvisDataGeoChartID2a382c9617();
+var options = {};
+options["height"] = 600;
+options["region"] = "Canada";
+options["displayMode"] = "markers";
+options["showTip"] = true;
+options["resolution"] = "country";
+options["markerOpacity"] = 0.8;
+options["Projection"] = "kavrayskiy-vii";
+options["colorAxis"] = {colors:['blue', '#FC8D59']};
+
+
+    var chart = new google.visualization.GeoChart(
+    document.getElementById('GeoChartID2a382c9617')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "geochart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartGeoChartID2a382c9617);
+})();
+function displayChartGeoChartID2a382c9617() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartGeoChartID2a382c9617"></script>
+ 
+<!-- divChart -->
+  
+<div id="GeoChartID2a382c9617" 
+  style="width: 100%; height: 600;">
+</div>
+ <div><span>Data: provinces &#8226; Chart ID: <a href="Chart_GeoChartID2a382c9617.html">GeoChartID2a382c9617</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.6.2</a></span><br /> 
+<!-- htmlFooter -->
+<span> 
+  R version 3.5.1 (2018-07-02) 
+  &#8226; <a href="https://developers.google.com/terms/">Google Terms of Use</a> &#8226; <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/geochart">Documentation and Data Policy</a>
+</span></div>
+</body>
+</html>
