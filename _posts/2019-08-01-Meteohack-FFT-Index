@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: "Create a metric to warn users of flash flooding in an geographical area in Python"
+title: "Predict number of days until customer's first booking on AirBnB in Python"
 date: 2016-03-18 14:15:00
 categories: python pyspark spark machine learning data science kaggle airbnb 
 tags: 'python pyspark spark scikit-learn statsmodels genralized-linear-models GLM gradient-boost-ensemble
