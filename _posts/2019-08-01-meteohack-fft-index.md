@@ -1,9 +1,9 @@
 ---
 layout: inner
 position: left
-title: "Predict number of days until customer's first booking on AirBnB in Python"
-date: 2016-03-18 14:15:00
-categories: python pyspark spark machine learning data science kaggle airbnb 
+title: "Warn users of flash flooding in geographical area"
+date: 2019-08-01 14:15:00
+categories: python machine learning data science kaggle airbnb 
 tags: 'python pyspark spark scikit-learn statsmodels genralized-linear-models GLM gradient-boost-ensemble
 kNN hyper-parameter-tuning scipy numpy pandas data-visualization matplotlib seaborn bokeh data-wrangling data-munging
 exploratory-data-analysis EDA statistics outliers missing-values imputation'
