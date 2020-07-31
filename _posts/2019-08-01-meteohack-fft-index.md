@@ -4,11 +4,9 @@ position: left
 title: "Warn users of flash flooding in geographical area"
 date: 2019-08-01 14:15:00
 categories: python data science hackathon climate-change environment
-tags: 'python scipy statsmodels genralized-linear-models GLM gradient-boost-ensemble
-kNN hyper-parameter-tuning scipy numpy pandas data-visualization matplotlib seaborn bokeh data-wrangling data-munging
-exploratory-data-analysis EDA statistics outliers missing-values imputation'
+tags: 'python numpy pandas matplotlib bokeh Fast-Fourier-Transform'
 featured_image: 'img/posts/accomodation2.png'
-project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
+project_link: 'https://github.com/flegare/MeteoHackFlashFloodDetection'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'On average new users take 3 weeks (US) and 1 month (Global) before making a booking. AirBnB has an approximate new customer conversion rate of approximately 50% (for both US and global).<br>
