@@ -3,8 +3,8 @@ layout: inner
 position: left
 title: "Warn users of flash flooding in geographical area"
 date: 2019-08-01 14:15:00
-categories: python machine learning data science kaggle airbnb 
-tags: 'python pyspark spark scikit-learn statsmodels genralized-linear-models GLM gradient-boost-ensemble
+categories: python data science hackathon climate-change environment
+tags: 'python scipy statsmodels genralized-linear-models GLM gradient-boost-ensemble
 kNN hyper-parameter-tuning scipy numpy pandas data-visualization matplotlib seaborn bokeh data-wrangling data-munging
 exploratory-data-analysis EDA statistics outliers missing-values imputation'
 featured_image: 'img/posts/accomodation2.png'
