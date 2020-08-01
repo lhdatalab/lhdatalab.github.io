@@ -11,5 +11,5 @@ button_icon: 'github'
 button_text: 'View on Github'
 lead_text: "The effects of unchecked climate change - flash flooding. See our submission for team <b>GeoHack</b> to Environment Canada and Hackworks' MeteoHack <b>hackathon.</b><br>
 <p><b>Winner</b> in the Warning! Danger Ahead! category - analyze Earth science and weather data to monitor natural disasters, and impact on life and property.</p>
-<p>My personal contribution was modelling floods using Fast Fourier Transforms ee Readme.md (at the GitHub link below) for a more complete summary.</p>"
+<p>My personal contribution was detecting floods using Fast Fourier Transforms (FFT)) and a risk model index. The FFT index is divided into low, medium, and high risk categories.</p>"
 ---
