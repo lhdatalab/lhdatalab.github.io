@@ -13,5 +13,5 @@ featured_image: 'img/posts/nycsubwayv2.png'
 project_link: ''
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Volunteer for the Datanight (weeklong datathon) for Nellie's Shelter. Unfortunately, due to non-disclosure agreement cannot give details. See tags for python packages and concepts used for the analysis.'
+lead_text: 'Volunteer for the Datanight (weeklong datathon) for Nellies Shelter. Unfortunately, due to non-disclosure agreement cannot give details. See tags for python packages and concepts used for the analysis.'
 ---
