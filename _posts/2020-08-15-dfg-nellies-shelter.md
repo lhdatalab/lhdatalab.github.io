@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Data for Good Datanight - Nellie's Shelter'
+title: 'Data for Good Datanight - Nellies Shelter'
 date: 2020-08-15 14:15:00
 categories: python, numpy, pandas, scipy, scikit-learn, 
 matplotlib, seaborne, data-visualization, 
