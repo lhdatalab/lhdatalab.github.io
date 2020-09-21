@@ -10,7 +10,7 @@ tags: 'python, numpy, pandas, scipy, scikit-learn,
 matplotlib, seaborne, data-visualization, 
 time-series-analysis, data-munging, random forest'
 featured_image: 'img/posts/nycsubwayv2.png'
-project_link: ''
+project_link: 'https://lhdatalab.github.io'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'Volunteer for the Datanight (weeklong datathon) for Nellies Shelter. Unfortunately, due to non-disclosure agreement cannot give details. See tags for python packages and concepts used for the analysis.'
