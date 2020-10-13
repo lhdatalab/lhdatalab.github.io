@@ -5,7 +5,7 @@ title: "Detect flash flooding in geographical areas"
 date: 2019-08-01 14:15:00
 categories: python data science hackathon climate-change environment
 tags: 'python numpy pandas matplotlib bokeh Fast-Fourier-Transform'
-featured_image: 'img/posts/climate_change_hackathon.jpg'
+featured_image: 'img/posts/climate_change_hackathon.png'
 project_link: 'https://github.com/flegare/MeteoHackFlashFloodDetection'
 button_icon: 'github'
 button_text: 'View on Github'
