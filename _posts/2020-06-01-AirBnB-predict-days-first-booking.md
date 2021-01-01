@@ -8,7 +8,7 @@ tags: 'python pyspark spark scikit-learn statsmodels genralized-linear-models GL
 kNN hyper-parameter-tuning scipy numpy pandas data-visualization matplotlib seaborn bokeh data-wrangling data-munging
 exploratory-data-analysis EDA statistics outliers missing-values imputation'
 featured_image: 'img/posts/accomodation2.png'
-project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
+project_link: ''
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'On average new users take 3 weeks (US) and 1 month (Global) before making a booking. AirBnB has an approximate new customer conversion rate of approximately 50% (for both US and global).<br>
