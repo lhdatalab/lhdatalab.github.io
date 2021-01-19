@@ -12,5 +12,5 @@ project_link: ''
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'On average new users take about 4 days before making a booking.<br>
-<p><b>Bonus:</b> Data was taken from a Kaggle competition. The results include feature selection using Recursive Feature Elimination.</p>'
+<p>Data was taken from a Kaggle competition. The project includes feature selection using Recursive Feature Elimination, imputation of missing values, and target variable transformation to improve results.</p>'
 ---
