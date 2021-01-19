@@ -12,5 +12,5 @@ project_link: 'https://github.com/lhdatalab/AirBnB_predict_daysfirstbooking'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'On average new users take about 4 days before making a booking.<br>
-<p>Data was taken from a Kaggle competition. The project includes feature selection using Recursive Feature Elimination, imputation of missing values, and target variable transformation to improve results.</p>'
+<p>Data was taken from a Kaggle competition. The project includes feature selection using Recursive Feature Elimination, imputation of missing values, target variable transformation, and hyperparameter tuning to improve results.</p>'
 ---
