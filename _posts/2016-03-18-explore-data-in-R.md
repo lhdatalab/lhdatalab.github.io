@@ -10,4 +10,5 @@ project_link: 'https://github.com/lhdatalab/exploredatainR'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: "Use R to find opportunities for the niche green taxi sector to earn more revenue in an industry dominated by yellow taxis in New York City. Read recommedations in Readme.md at https://github.com/lhdatalab/exploredatainR"
+
 ---
