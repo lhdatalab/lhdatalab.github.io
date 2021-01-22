@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: "Explore and Summarize Data in R"
 date: 2016-03-18 14:15:00
 categories: R machine learning data science EDA exploratory data analysis
