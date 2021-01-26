@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Data for Good Datanight - Nellies Shelter'
 date: 2020-08-15 14:15:00
 categories: python, numpy, pandas, scipy, scikit-learn, 
@@ -14,4 +14,5 @@ project_link: 'https://lhdatalab.github.io'
 button_icon: 'github'
 button_text: 'View on Github'
 lead_text: 'Volunteer for the Datanight (weeklong datathon) for Nellies Shelter. Unfortunately, due to non-disclosure agreement cannot give details. See tags for python packages and concepts used for the analysis.'
+
 ---
