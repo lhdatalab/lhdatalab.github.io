@@ -5,7 +5,7 @@ title: 'Create a dashboard to provide insights about repeat caller volumes for G
 date: 2023-07-10 16:15:00
 categories: project-planning, BigQuery, ETL, dashboard, Tableau  
 tags: 'stakeholder-requirements project-requirements strategy-document project-planning BigQuery ETL dashboard Tableau'
-featured_image: 'img/posts/nycsubwayv2.png'
+featured_image: 'img/posts/google_fiber_small.png'
 project_link: 'https://github.com/lhdatalab/nycsubwaydata'
 button_icon: 'github'
 button_text: 'View on Github'
