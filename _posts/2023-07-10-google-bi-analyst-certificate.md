@@ -9,7 +9,7 @@ featured_image: 'img/posts/google_fiber_small.png'
 project_link: 'https://github.com/lhdatalab/bianalyst'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Conduct an experiment to answer the question "In New York City, do more people ride the subway when it is raining?" Yes, on average 183 more passengers per station.'
+lead_text: 'Customers call customer support the first time can sometimes call subsequent times about the same issue. The team needs to understand how often customers call customer support after their first inquiry. This will help the team to understand if customer questions are answered the first time and explore trends in repeat calls in three different market cities.'
 
 ---
 
