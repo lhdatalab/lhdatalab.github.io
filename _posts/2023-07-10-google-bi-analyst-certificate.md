@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Create a dashboard to provide insights about repeat caller volumes for Google Fiber'
+title: 'Google BI Analyst Certificate: Create a dashboard to provide insights about repeat caller volumes for Google Fiber'
 date: 2023-07-10 16:15:00
 categories: project-planning, BigQuery, ETL, dashboard, Tableau  
 tags: 'stakeholder-requirements project-requirements strategy-document project-planning BigQuery ETL dashboard Tableau'
